@@ -1,0 +1,439 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+     
+}
+
+
+
+.reklama{
+height: 100px;
+width:100%;
+display: flex;
+margin-left:150px ;
+}
+.menu{
+height: 70px;
+width: 100%;
+
+}
+.kartina{
+height: 490px;
+width: 100%;
+background:url(img/maxresdefault.png) no-repeat;
+background-size: cover;
+
+}
+
+.textall {
+   margin-left: 150px;
+    font-size: 45px;
+    color: rgb(255, 255, 255);
+    
+    padding-top: 50px;
+    text-shadow: rgb(66, 65, 65);
+   position: relative;
+}
+.texter{
+    height: 60px;
+    width: 270px;
+    background: #FFFFFF40 25%;
+    font-size:16px ;
+    border-radius: 2px;
+    text-align: center;
+}
+
+.knopka p{
+    height: 45px;
+    width: 249px;
+    border: 1px solid #FFFFFF;
+    font-size: 24px;
+    text-align: center;
+}
+
+.tyroperator{
+height: 250px;
+width: 100%;
+}
+.text{
+    margin-left: 285px;
+    width: 52px;
+    height: 21px;
+    margin-left: 70px;
+}
+.text_1{
+    margin-left: 365px;
+   width: 100px;
+   height: 19px; 
+   margin-left: 70px;
+  
+}
+.er{
+width: 75px;
+}
+.icons{
+    width: 100px;
+    height: 50px;
+    margin-left: 50px;
+    margin-top: 25px;
+    display: flex;
+}
+.text_1 p{
+    width: 100px;
+}
+.icons i{
+   padding: 10px;
+   color: #808080;
+
+}
+.number{
+    width: 130px;
+    height: 21px;
+    margin-left: 100px;
+  
+}
+.number p{
+    width: 190px;
+    height: 21px;
+    font-size: 20px;
+}
+.phone{
+    width: 40px;
+    height: 50px;
+    margin-left: 70px;
+}
+.phone i{
+    margin-top: 20px;
+    color:#808080;
+}
+.maistra{
+    width: 290px;
+    height: 100px;
+    margin-left: 70px;
+   display: flex;
+    
+}
+.maistraer{
+    width: 270px;
+    height: 55px;
+    margin-left: 20px;
+   display: flex;
+   background-color: #EFF3F6;
+   align-items: center;
+   margin-top: 25px;
+}
+.maistra p{
+    width: 205px;
+    background-color: #EFF3F6;
+    
+    text-align: center;
+}
+.gl{
+    width: 65px;
+    height: 55px;
+    background-color: #DD4053;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 0px 10px 10px 0px;
+    margin-top: 25px;
+}
+
+
+.hl{
+    width: 65px;
+    height: 55px;
+    background-color:  #d2804a;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 0px 10px 10px 0px;
+    margin-top: 5px;
+}
+
+.online p{
+    width: 120px;
+    background-color: #EFF3F6;
+    
+    text-align: center;
+    margin-left: 40px;
+}
+.online{
+    width: 270px;
+    height: 55px;
+    margin-left: 20px;
+   display: flex;
+   background-color: #EFF3F6;
+   align-items: center;
+   margin-top: 5px;
+}
+.onkine{
+    display: flex;
+    align-items: center;
+    width: 270px;
+    height: 100px;
+    margin-left: 20px;
+}
+
+
+
+.search{
+    margin-left: 230px;
+}
+.menu{
+display: flex;
+}
+.hotel{
+    margin-left: 70px;
+}
+li{
+    list-style: none;
+}
+ul{
+    display: flex;
+    margin-left: 100px;
+}
+ul li{
+margin-left: 80px;
+padding: 5px;
+}
+ul li a{
+    text-decoration: none;
+}
+.travel{
+    height: 507px;
+    background:url(img/footer.png) no-repeat ;
+    background-size: cover;
+    width: 100%;
+}
+.footer{
+    position: absolute;
+    width: 100%;
+    margin-top: 500px;
+}
+.traveled p{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    margin: 5px;
+}
+.traveled{
+ padding: 150px;
+}    
+.traveles{
+    background: linear-gradient(180deg, #F8F8F8 -12.15%, #E8E8E8 100%);
+    height: 1091px;
+    position: relative;
+}
+
+.actuali{
+    height: 305px;
+    width: 100%;
+    display: flex;
+    background: rgb(255, 255, 255);
+    position: relative;
+    margin-left: 250px;
+}
+.texteh{
+    font-size: 45px;
+    margin-left: 50px;
+    margin-top: 5px;
+    display: flex;
+    width: 60%;
+
+}
+.tyr{
+    font-size: 24px;
+    border: 1px solid #969696;
+    width: 140px;
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+.kart_1{
+    background: url(img/mandarina2.png) no-repeat;
+    width: 327px;
+    height: 220px;
+   margin-left: 150px;
+   margin-top: 20px;
+   background-size: cover;
+  
+}
+.info{
+   width: 327px;
+   height: 250px;
+   margin-left: 150px;
+   background: #F8F8F8;
+
+
+}
+.b{
+    font-size: 24px;
+    color: rgb(255, 0, 0);
+    margin-top: 60px;
+    margin-left: 30px;
+}
+.e{
+    margin-top: 10px;
+    font-size: 12px;
+}
+.a{
+    font-size: 24px;
+}
+.c{
+    font-size: 16px;
+}
+
+.kart_2{
+    background: url(img/14916551.png) no-repeat;
+    background-size: cover;
+    width: 327px;
+    height: 220px;
+   margin-left: 150px;
+   margin-top: 20px;
+  
+}
+.kart_3{
+    background: url(img/2763982311.png) no-repeat;
+    width: 327px;
+    height: 220px;
+   margin-left: 150px;
+   margin-top: 20px;
+   background-size: cover;
+  
+}
+.kartinki{
+    display:inline-flex;
+    margin-left: 200px;
+}
+.blocker{
+    position: relative;
+}
+.image{
+   margin-left: 364px;
+    width: 150px;
+    margin-top: 200px;
+    position: absolute;
+}
+.reklama_text{
+    font-size: 15px;
+    margin-left: 613px;
+    margin-top: 200px;
+    position: absolute;
+}
+.reklama_text_2{
+    font-size: 15px;
+    margin-left: 850px;
+    margin-top: 200px;
+    position: absolute;
+}
+.reklama_text_3{
+    font-size: 15px;
+    margin-left: 1107px;
+    margin-top: 200px;
+    position: absolute;
+}
+.reklama_text_4{
+    font-size: 15px;
+    margin-left: 1384px;
+    margin-top: 200px;
+    position: absolute;
+}
+
+.reh{
+opacity: 50%;
+}
+.reklama_text_5{
+    font-size: 15px;
+    margin-left: 1384px;
+    margin-top: 350px;
+    position: absolute;
+}
+.stop{
+    width: 1300px;
+    height: 1px;
+    background: #000000;
+    position: absolute;
+    margin-top: 400px;
+    margin-left: 300px;
+}
+.stoper p{
+    position:absolute ;
+    margin-left: 300px;
+    opacity: 50%;
+    margin-top: 500px;
+    font-size: 14px;
+}
+.icons_2{
+    margin-top: 500px;
+    margin-left: 1500px;
+    width: 100px;
+    height: 50px;
+   
+   opacity: 50%;
+    position: absolute;
+    padding: 5px;
+}
+@media screen and (max-width:450px) {
+    .reklama{display: none;}
+    .menu{display: none;}
+    .kartinki{
+      flex-direction: column;
+     margin-left: 0;
+        width: 100%;
+
+    }
+    .kart_1, .info, .kart_2, .kart_3{
+        width: 100%;
+        margin: 0;
+    }
+    .tyr{
+        margin-left: 500px;
+    }
+    .header{
+        height: 600px;
+        width: 450px;
+    }
+    .kartina{
+        width: 100%;
+    }
+    body{
+        width: 450px;
+    }
+    .blocker_1{
+        width: 100%;
+    }
+    .travel, .stop {
+        display: none;
+    }
+    .icons_2 {
+        margin: 0;
+    }
+    .stoper p {
+        margin-top: 10px;
+        margin-left: 10px;
+        top: 50px;
+    }
+    .footer{
+        margin-top: 20px;
+    }
+    .actuali {
+        margin-left: 0;
+        width: 100%;
+    }
+    .texteh {
+        width: 100%;
+    }
+    .tyr, .knopka {
+        display: none;
+    }
+    .textall {
+        font-size: 18px;
+    }
+    .texter a {
+       margin-top: 50px;
+    }
+}
+
+   
